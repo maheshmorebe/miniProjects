@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ClassBasedAPIView.iml" filepath="$PROJECT_DIR$/.idea/ClassBasedAPIView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DrfPagination/.idea/DrfPagination.iml" filepath="$PROJECT_DIR$/../DrfPagination/.idea/DrfPagination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../my_proj/Django/EmployeeClassBasedView/.idea/EmployeeClassBasedView.iml" filepath="$PROJECT_DIR$/../../my_proj/Django/EmployeeClassBasedView/.idea/EmployeeClassBasedView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FilteringGetQuerySet/.idea/FilteringGetQuerySet.iml" filepath="$PROJECT_DIR$/../FilteringGetQuerySet/.idea/FilteringGetQuerySet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GenericAPIViewAndModelMixin/.idea/GenericAPIViewAndModelMixin.iml" filepath="$PROJECT_DIR$/../GenericAPIViewAndModelMixin/.idea/GenericAPIViewAndModelMixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JWTAuth/.idea/JWTAuth.iml" filepath="$PROJECT_DIR$/../JWTAuth/.idea/JWTAuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SerializerRelationsNestedSerializer/.idea/SerializerRelationsNestedSerializer.iml" filepath="$PROJECT_DIR$/../SerializerRelationsNestedSerializer/.idea/SerializerRelationsNestedSerializer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TokenAuth/.idea/TokenAuth.iml" filepath="$PROJECT_DIR$/../TokenAuth/.idea/TokenAuth.iml" />
+    </modules>
+  </component>
+</project>
